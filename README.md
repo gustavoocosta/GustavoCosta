@@ -1,4 +1,4 @@
-### Hi there ✌️
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Agdasima&weight=800&size=26&pause=1000&color=FFFFFF&width=468&height=60&lines=Be+welcome!+%F0%9F%98%8A;Hello%2C+My+name+is+Gustavo+Costa+%F0%9F%A4%99%F0%9F%8F%BE" alt="Typing SVG" /></a>
 
 I am a student and a passionate technology developer with a goal to specialize in the BackEnd field. Throughout my academic journey, I have dedicated myself to learning and mastering various programming languages. My main skills include GoLang, Javascript, Golang, SQL, Git, GitHub, HTML, and CSS. With these tools at my disposal, I am ready to take on technical challenges and collaborate on software development projects.
 
@@ -34,3 +34,14 @@ alt="email" height="25"/></a>
 <a href="https://www.instagram.com/gustavcosta/">
 <img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/instagram.png" alt="instagram" height="25"/></a>
 </p>
+
+### Studying in this moment:
+<a><img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/golang.png"
+alt="Golang" width="30"/></a>
+
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
