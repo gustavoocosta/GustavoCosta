@@ -2,7 +2,7 @@
 
 Certainly! Here's your statement with "Full Stack" instead of "Backend":
 
-"I am a student and a passionate technology developer with a goal to specialize in the Full Stack field. Throughout my academic journey, I have dedicated myself to learning and mastering various programming languages. My main skills include GoLang, Java, Javascript, react, SQL, Git, GitHub, HTML, and CSS. With these tools at my disposal, I am ready to take on technical challenges and collaborate on software development projects."
+"I am a student and a passionate technology developer with a goal to specialize in the Full Stack. Throughout my academic journey, I have dedicated myself to learning and mastering various programming languages. My main skills include GoLang, Java, Javascript, react, SQL, Git, GitHub, HTML, and CSS. With these tools at my disposal, I am ready to take on technical challenges and collaborate on software development projects."
 
 **Technology Stack:**
 
