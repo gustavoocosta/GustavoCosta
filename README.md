@@ -10,10 +10,10 @@ Certainly! Here's your statement with "Full Stack" instead of "Backend":
 alt="Golang" width="30"/></a>
 <a><img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/java.png"
 alt="Java" width="30"/></a>
-<a><img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/java-basico.png"
-alt="Java-Basico" width="30"/></a>
 <a><img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/logo-javascript-1024.png"
 alt="Javascript" width="30"/></a>
+<a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/AWS.png"
+alt="AWS" width="30"/></a>
 
 
 <br />
