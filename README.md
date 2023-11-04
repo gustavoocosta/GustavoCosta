@@ -14,6 +14,14 @@ alt="Java" width="30"/></a>
 alt="Javascript" width="30"/></a>
 <a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/AWS.png"
 alt="AWS" width="30"/></a>
+<a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/SQL.png"
+alt="SQL" width="30"/></a>
+<a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/Node.js.png"
+alt="Node-JS" width="30"/></a>
+<a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/react.png"
+alt="react" width="30"/></a>
+<a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/Git.png"
+alt="git" width="30"/></a>
 
 
 <br />
@@ -47,6 +55,10 @@ alt="email" height="25"/></a>
 
 <a><img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/golang.png"
 alt="Golang" width="30"/></a>
-<a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/SQL.png"
-alt="SQL" width="30"/></a>
+<a><img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/java.png"
+alt="Java" width="30"/></a>
+<a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/Git.png"
+alt="git" width="30"/></a>
+<a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/AWS.png"
+alt="AWS" width="30"/></a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
