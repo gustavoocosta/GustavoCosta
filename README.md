@@ -52,7 +52,8 @@ alt="email" height="25"/></a>
 
 
 **Studying in this moment:**
-
+<a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/ADS.png"
+alt="ADS" width="30"/></a>
 <a><img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/golang.png"
 alt="Golang" width="30"/></a>
 <a><img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/java.png"
@@ -61,4 +62,6 @@ alt="Java" width="30"/></a>
 alt="git" width="30"/></a>
 <a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/AWS.png"
 alt="AWS" width="30"/></a>
+<a><img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/logo-javascript-1024.png"
+alt="Javascript" width="30"/></a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
