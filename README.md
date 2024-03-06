@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Agdasima&weight=800&size=26&pause=1000&color=FFFFFF&width=468&height=60&lines=Be+welcome!+%F0%9F%98%8A;Hello%2C+My+name+is+Gustavo+Costa+%F0%9F%A4%99%F0%9F%8F%BE" alt="Typing SVG" /></a>
 
-"I am a student and a passionate technology developer with a goal to specialize in the BackEnd. Throughout my academic journey, I have dedicated myself to learning and mastering various programming languages. My main skills include GoLang, Java, Javascript, node.js, MySQL, AWS, Git, GitHub, HTML, and CSS. With these tools at my disposal, I am ready to take on technical challenges and collaborate on software development projects."
+"I am a student and a passionate technology developer with a goal to specialize in the Full Stack. Throughout my academic journey, I have dedicated myself to learning and mastering various programming languages. My main skills include GoLang, Java, Javascript, node.js, MySQL, AWS, Git, GitHub, HTML, and CSS. With these tools at my disposal, I am ready to take on technical challenges and collaborate on software development projects."
 
 **Technology Stack:**
 
