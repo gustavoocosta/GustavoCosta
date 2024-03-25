@@ -16,8 +16,6 @@ alt="AWS" width="30"/></a>
 alt="SQL" width="30"/></a>
 <a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/Node.js.png"
 alt="Node-JS" width="30"/></a>
-<a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/react.png"
-alt="react" width="30"/></a>
 <a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/Git.png"
 alt="git" width="30"/></a>
 
