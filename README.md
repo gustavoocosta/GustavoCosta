@@ -1,10 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Agdasima&weight=800&size=26&pause=1000&color=FFFFFF&width=468&height=60&lines=Be+welcome!+%F0%9F%98%8A;Hello%2C+My+name+is+Gustavo+Costa+%F0%9F%A4%99%F0%9F%8F%BE" alt="Typing SVG" /></a>
 
-I am a Fullstack Developer in training, passionate about software development and always seeking to learn more and improve myself. Throughout my academic journey, I have deepened my knowledge in several technologies such as HTML, CSS, JavaScript, Node.js, Java, Golang, as well as MySQL and AWS.
+I am a software developer with two and a half years of experience, focusing on Golang and Java. Currently, I am in my final semester of a Technology degree in Systems Analysis and Development at the University of Marília, where I have deepened my knowledge in technologies like HTML, CSS, JavaScript, Node.js, MySQL, and AWS. I have experience in both backend and frontend development and am passionate about creating functional, efficient, and intuitive solutions for users.
 
-I love creating solutions that are both functional and enjoyable for users. In my day-to-day work, I use Git and GitHub to keep the code organized and collaborate with other developers. I also have experience in data analysis, which helps me better understand the project's needs and optimize solutions.
+Additionally, I use Git and GitHub for project organization and collaboration, and I have experience in data analysis, which helps me optimize solutions. I am constantly seeking to grow professionally, apply my knowledge to personal projects, and contribute innovative solutions to technology challenges.
 
-Besides my studies, I always put into practice what I learn through personal projects, where I can test new ideas and solve real-world problems. My goal is to continue growing and contribute with innovative solutions to technology challenges
 
 **Technology Stack:**
 
